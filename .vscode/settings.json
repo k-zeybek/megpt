@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "[javascript][javascriptreact][typescript][typescriptreact][json][jsonc][css][html][markdown][yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "eslint.workingDirectories": ["./frontend"]
+}
